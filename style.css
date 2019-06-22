@@ -13,13 +13,9 @@ html {
 }
 
 body {
-  position: fixed;
   background-color: #ef7168;
   color: white;
-  top: 50%;
-  left: 50%;
-  margin-top: -250px;
-  margin-left: -150px;
+  padding-top: 10%
 }
 
 #logo {
