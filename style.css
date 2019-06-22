@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
-
+/* @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro'); */
+@import url('https://fonts.googleapis.com/css?family=Mali:600&display=swap');
 
 * {
   box-sizing: border-box;
@@ -8,9 +8,23 @@
 }
 
 html {
-  font-family: 'Source Sans Pro', sans-serif;
+  /* font-family: 'Source Sans Pro', sans-serif; */
+  font-family: 'Mali', cursive;
 }
 
 body {
   background-color: #ef7168;
+  color: white;
+}
+
+#logo {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
 }
