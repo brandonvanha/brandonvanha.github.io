@@ -15,17 +15,9 @@ html {
 body {
   background-color: #ef7168;
   color: white;
-  padding-top: 10%
 }
 
-#logo {
-  text-align: center;
-}
-
-h1 {
-  text-align: center;
-}
-
-h2 {
-  text-align: center;
+#welcome {
+ text-align: center;
+ padding-top: 20vh;
 }
