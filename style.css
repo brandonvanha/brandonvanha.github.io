@@ -19,5 +19,10 @@ body {
 
 #welcome {
  text-align: center;
- padding-top: 20vh;
+ padding-top: 5vh;
+}
+
+#soon {
+  text-align: center;
+  padding-top: 5vh;
 }
